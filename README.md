@@ -153,3 +153,7 @@ server {
 
 -- AFTER FINISH THIS STEPS, OPEN YOUR WEB-BROWSER AND INSERTING YOUR IP ADDRESS TO START THE INSTALLATION OF GLPI
 
+-- After the installation is complete, to log in:
+USER: glpi
+PASSWORD: glpi
+
